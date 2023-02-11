@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\bin\Debug\netcoreapp3.1\LabTask_1.exe
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\bin\Debug\netcoreapp3.1\LabTask_1.deps.json
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\bin\Debug\netcoreapp3.1\LabTask_1.runtimeconfig.json
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\bin\Debug\netcoreapp3.1\LabTask_1.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\bin\Debug\netcoreapp3.1\LabTask_1.dll
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\bin\Debug\netcoreapp3.1\LabTask_1.pdb
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.dll
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.pdb
+C:\Users\Asus\Documents\C#\LabTask_1\LabTask_1\obj\Debug\netcoreapp3.1\LabTask_1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\bin\Debug\netcoreapp3.1\If-else.exe
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\bin\Debug\netcoreapp3.1\If-else.deps.json
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\bin\Debug\netcoreapp3.1\If-else.runtimeconfig.json
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\bin\Debug\netcoreapp3.1\If-else.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\bin\Debug\netcoreapp3.1\If-else.dll
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\bin\Debug\netcoreapp3.1\If-else.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.dll
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\If-else\If-else\obj\Debug\netcoreapp3.1\If-else.genruntimeconfig.cache

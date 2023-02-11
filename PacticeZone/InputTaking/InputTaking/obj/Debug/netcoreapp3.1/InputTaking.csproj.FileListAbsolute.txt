@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\bin\Debug\netcoreapp3.1\InputTaking.exe
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\bin\Debug\netcoreapp3.1\InputTaking.deps.json
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\bin\Debug\netcoreapp3.1\InputTaking.runtimeconfig.json
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\bin\Debug\netcoreapp3.1\InputTaking.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\bin\Debug\netcoreapp3.1\InputTaking.dll
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\bin\Debug\netcoreapp3.1\InputTaking.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.dll
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\InputTaking\InputTaking\obj\Debug\netcoreapp3.1\InputTaking.genruntimeconfig.cache

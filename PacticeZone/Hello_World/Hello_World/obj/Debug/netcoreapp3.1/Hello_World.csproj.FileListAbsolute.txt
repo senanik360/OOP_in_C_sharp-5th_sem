@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.deps.json
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.runtimeconfig.json
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.dll
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.dll
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\bin\Debug\Fool Game.exe.config
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\bin\Debug\Fool Game.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\bin\Debug\Fool Game.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool_Game.Form1.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool_Game.Properties.Resources.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool Game.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool Game.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool Game.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool Game.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool Game.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool_Game.Form2.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Fool Game\Fool Game\obj\Debug\Fool_Game.Form3.resources

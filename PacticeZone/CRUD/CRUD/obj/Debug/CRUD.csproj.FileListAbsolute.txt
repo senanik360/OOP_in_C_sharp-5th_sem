@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Asus\Documents\C#\PacticeZone\CRUD\CRUD\obj\Debug\CRUD.pdb

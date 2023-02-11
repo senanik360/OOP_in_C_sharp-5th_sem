@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\bin\Debug\AppLayer.exe.config
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\bin\Debug\AppLayer.exe
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.Form1.resources
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.Properties.Resources.resources
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.csproj.CopyComplete
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.exe
+C:\Users\Asus\Documents\C#\PacticeZone\AppLayer\AppLayer\obj\Debug\AppLayer.pdb

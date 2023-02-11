@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\bin\Debug\Picture_selection.exe.config
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\bin\Debug\Picture_selection.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\bin\Debug\Picture_selection.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.Form1.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.Properties.Resources.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Picture_selection\Picture_selection\obj\Debug\Picture_selection.pdb

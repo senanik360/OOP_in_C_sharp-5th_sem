@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.exe
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.deps.json
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.runtimeconfig.json
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.dll
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\bin\Debug\netcoreapp3.1\ArraySample.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.dll
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\ArraySample\ArraySample\obj\Debug\netcoreapp3.1\ArraySample.genruntimeconfig.cache

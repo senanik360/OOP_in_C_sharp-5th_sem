@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\bin\Debug\netcoreapp3.1\x1.exe
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\bin\Debug\netcoreapp3.1\x1.deps.json
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\bin\Debug\netcoreapp3.1\x1.runtimeconfig.json
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\bin\Debug\netcoreapp3.1\x1.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\bin\Debug\netcoreapp3.1\x1.dll
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\bin\Debug\netcoreapp3.1\x1.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.dll
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\x1\x1\obj\Debug\netcoreapp3.1\x1.genruntimeconfig.cache

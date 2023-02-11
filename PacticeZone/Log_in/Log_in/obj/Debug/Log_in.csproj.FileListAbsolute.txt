@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.Form1.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.Properties.Resources.resources
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\bin\Debug\Log_in.exe.config
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\bin\Debug\Log_in.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\bin\Debug\Log_in.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Log_in\Log_in\obj\Debug\Log_in.DashBoard.resources

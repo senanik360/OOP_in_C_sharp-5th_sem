@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\bin\Debug\Log_in form.exe.config
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\bin\Debug\Log_in form.exe
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\bin\Debug\Log_in form.pdb
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in form.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in_form.Form1.resources
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in_form.Form2.resources
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in_form.Properties.Resources.resources
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in form.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in form.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in form.exe
+C:\Users\Asus\Documents\C#\Log_in form\Log_in form\obj\Debug\Log_in form.pdb

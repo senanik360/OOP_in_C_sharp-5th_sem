@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\C#\20thSep\20thSep\bin\Debug\netcoreapp3.1\20thSep.exe
+C:\Users\Asus\Documents\C#\20thSep\20thSep\bin\Debug\netcoreapp3.1\20thSep.deps.json
+C:\Users\Asus\Documents\C#\20thSep\20thSep\bin\Debug\netcoreapp3.1\20thSep.runtimeconfig.json
+C:\Users\Asus\Documents\C#\20thSep\20thSep\bin\Debug\netcoreapp3.1\20thSep.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\20thSep\20thSep\bin\Debug\netcoreapp3.1\20thSep.dll
+C:\Users\Asus\Documents\C#\20thSep\20thSep\bin\Debug\netcoreapp3.1\20thSep.pdb
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.dll
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.pdb
+C:\Users\Asus\Documents\C#\20thSep\20thSep\obj\Debug\netcoreapp3.1\20thSep.genruntimeconfig.cache

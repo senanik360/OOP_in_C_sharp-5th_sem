@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\C#\Stack\Hashtable\bin\Debug\netcoreapp3.1\hashtable.exe
+C:\Users\Asus\Documents\C#\Stack\Hashtable\bin\Debug\netcoreapp3.1\hashtable.deps.json
+C:\Users\Asus\Documents\C#\Stack\Hashtable\bin\Debug\netcoreapp3.1\hashtable.runtimeconfig.json
+C:\Users\Asus\Documents\C#\Stack\Hashtable\bin\Debug\netcoreapp3.1\hashtable.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\Stack\Hashtable\bin\Debug\netcoreapp3.1\hashtable.dll
+C:\Users\Asus\Documents\C#\Stack\Hashtable\bin\Debug\netcoreapp3.1\hashtable.pdb
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.dll
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.pdb
+C:\Users\Asus\Documents\C#\Stack\Hashtable\obj\Debug\netcoreapp3.1\hashtable.genruntimeconfig.cache

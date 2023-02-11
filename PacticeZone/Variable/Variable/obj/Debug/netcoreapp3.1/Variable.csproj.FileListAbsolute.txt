@@ -1,0 +1,13 @@
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.exe
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.deps.json
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.json
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.runtimeconfig.dev.json
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.dll
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\bin\Debug\netcoreapp3.1\Variable.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.AssemblyInfo.cs
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.dll
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.pdb
+C:\Users\Asus\Documents\C#\PacticeZone\Variable\Variable\obj\Debug\netcoreapp3.1\Variable.genruntimeconfig.cache
